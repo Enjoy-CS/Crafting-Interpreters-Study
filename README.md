@@ -1,6 +1,6 @@
 # Crafting-Interpreters-Study
 
-This repository for study issues and discussions.
+This repository is for study issues, logs, and discussions.
 
 *** This study is being equally contributed. ***
   
