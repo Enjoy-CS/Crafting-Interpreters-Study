@@ -3,9 +3,8 @@
 This repository is for study issues, logs, and discussions.
 
 *** This study is being equally contributed. ***
-  
 Participants:
-1. yongdol503
+1. yongdol503 [[Project Link]](https://github.com/Enjoy-CS/CI-YG)
 2. JLGGG [[Project Link]](https://github.com/study-for-worker/CI-JS)
-3. Shinwon-Kang
-4. 
+3. Shinwon-Kang [[Project Link]](https://github.com/Enjoy-CS/CI-SW)
+4. mhlee0627 [[Project Link]](https://github.com/Enjoy-CS/CI-MH)
